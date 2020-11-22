@@ -29,3 +29,21 @@
 |[monster.com](http://monster.com)<img  width=400/>|[jobspresso.co](http://jobspresso.co)<img  width=400/>|
 |[turing.ly](http://turing.ly)<img  width=400/>|[x-team.com](http://x-team.com)<img  width=400/>|
 |[joinimagine.com](http://joinimagine.com)<img  width=400/>|[remotive.io](http://remotive.io)<img  width=400/>|
+
+## Open Source Programs/Internships
+|||
+|----|---------|
+|[Google Summer of Code](https://summerofcode.withgoogle.com/)<img  width=400/>|[Google Season of Docs](https://developers.google.com/season-of-docs)<img  width=400/>|
+|[Google Summer of Earth Engine (SoEE)](https://sites.google.com/view/summerofearthengine/home)<img  width=400/>|[Github Campus Expert](https://education.github.com/students/experts)<img  width=400/>|
+|[Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)<img  width=400/>|[Developers Circle By Facebook](https://developers.facebook.com/developercircles/)<img  width=400/>|
+|[Developer Student Clubs by Google](https://developers.google.com/community/dsc)<img  width=400/>|[AWS educate By Amazon](https://aws.amazon.com/education/awseducate/)<img  width=400/>|
+|[Intel Student Ambassador Program](https://software.intel.com/content/www/us/en/develop/community/ambassadors.html)<img  width=400/>|[Campus Leaders By Code For Cause](https://codeforcause.org/campusLeaders)<img  width=400/>|
+|[One Plus Student Ambassador Program](https://www.oneplus.in/campus)<img  width=400/>|[Major League Hacking](https://mlh.io)<img  width=400/>|
+|[MLH Fellowship](https://fellowship.mlh.io/)<img  width=400/>|[Outreachy](https://www.outreachy.org)<img  width=400/>|
+|[Season of KDE](https://season.kde.org)<img  width=400/>|[Linux Foundation (LFN) Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program)<img  width=400/>|
+|[Open Mainframe Project](https://www.openmainframeproject.org)<img  width=400/>|[Hacktoberfest by Digital ocean](https://hacktoberfest.digitalocean.com/)<img  width=400/>|
+|[https://codeheat.org/](https://codeheat.org/)<img  width=400/>|[Linux Kernel Mentorship Program](https://www.linuxfoundation.org/blog/2019/03/announcing-the-linux-kernel-mentorship-project-on-communitybridge-a-new-linux-foundation-platform/)<img  width=400/>|
+|[Redox Summer of Code](https://www.redox-os.org/rsoc)<img  width=400/>|[Hyperledger Mentorship Program](https://wiki.hyperledger.org/display/INTERN)<img  width=400/>|
+|[Foss Asia Internship Program](https://fossasia.org/)<img  width=400/>|[Open Summer of Code (OSoC) for Students](https://osoc.be)<img  width=400/>|
+|[Alibaba Summer of Code](https://www.alibabacloud.com/blog/alibaba-summer-of-code-2020-leading-the-new-open-source-trend_596241)<img  width=400/>|[Free Software Foundation (FSF) Internship Program](https://www.fsf.org/blogs/community/summer-internships-at-the-fsf-apply-by-may-10)<img  width=400/>|
+|[The Processing Foundation Fellowships](https://processingfoundation.org/fellowships)<img  width=400/>|[Microsoft RL Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)<img  width=400/>|
